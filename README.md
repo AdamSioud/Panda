@@ -5,3 +5,5 @@ The journey starts with "Learning the Pandas Library: Python Tools for Data Mung
 
 In addition to this I will search around other sources while reading the book, to get a better understanding, mostly videos. Found a great guy who had a video
 on pandas series, I will be watching him more. When it comes to learning pandas, here is his a link to his somewhat of a tutorial https://github.com/knathanieltucker/pandas-tutorial. I will be using this side by side with the book.
+
+To optimize learning I will also use the website https://python-tricks.com/crud-in-series/. First skim through the pages in the book. Then use website. Then try myself. Then search around topics I need to,then use tucker. then do a revision at a later time for instance next day.
