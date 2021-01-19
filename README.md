@@ -15,4 +15,6 @@ A helpful resource is of course the documantaion. https://pandas.pydata.org/docs
 
 <h2> Exercising </h2>
 
+https://github.com/guipsamora/pandas_exercises 
+
 <h2> Project </h2>
