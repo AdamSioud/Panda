@@ -14,4 +14,4 @@ A helpful resource is of course the documantaion. https://pandas.pydata.org/docs
 
 <h2> Exercising </h2>
 
-<h2> #Project </h2>
+<h2> Project </h2>
