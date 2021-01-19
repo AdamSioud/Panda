@@ -18,3 +18,5 @@ A helpful resource is of course the documantaion. https://pandas.pydata.org/docs
 https://github.com/guipsamora/pandas_exercises 
 
 <h2> Project </h2>
+
+An app which utilizes data from oslobysykkel
