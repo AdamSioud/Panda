@@ -1,7 +1,8 @@
 <h1> Panda </h1>
 
+The time has come to explore the Pandas library. 
+
 <h2> Learning </h2>
-Exploring the Pandas library
 
 The journey starts with "Learning the Pandas Library: Python Tools for Data Munging, Analysis, and Visual 1st Edition" By Matt Harrison
 
