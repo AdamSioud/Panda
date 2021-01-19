@@ -19,4 +19,4 @@ https://github.com/guipsamora/pandas_exercises
 
 <h2> Project </h2>
 
-An app which utilizes data from oslobysykkel
+An application which utilizes data from oslobysykkel
