@@ -1,6 +1,6 @@
-#Panda
+<h1> Panda </h1>
 
-##Learning 
+<h2> Learning </h2>
 Exploring the Pandas library
 
 The journey starts with "Learning the Pandas Library: Python Tools for Data Munging, Analysis, and Visual 1st Edition" By Matt Harrison
@@ -12,6 +12,6 @@ To optimize learning I will also use the website https://python-tricks.com/crud-
 
 A helpful resource is of course the documantaion. https://pandas.pydata.org/docs/
 
-##Exercising
+<h2> Exercising </h2>
 
-##Creating
+<h2> #Project </h2>
